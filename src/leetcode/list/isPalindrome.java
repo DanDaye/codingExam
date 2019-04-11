@@ -1,5 +1,8 @@
 package leetcode.list;
 
+import java.util.ArrayList;
+import java.util.BitSet;
+
 /**
  * 请判断一个链表是否为回文链表。
  *
@@ -47,5 +50,6 @@ public class isPalindrome {
         }else{
             return false;
         }
+
     }
 }
